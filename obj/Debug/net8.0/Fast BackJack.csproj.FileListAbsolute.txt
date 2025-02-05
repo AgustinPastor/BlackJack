@@ -1,0 +1,14 @@
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\bin\Debug\net8.0\Fast BackJack.exe
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\bin\Debug\net8.0\Fast BackJack.deps.json
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\bin\Debug\net8.0\Fast BackJack.runtimeconfig.json
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\bin\Debug\net8.0\Fast BackJack.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\bin\Debug\net8.0\Fast BackJack.pdb
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\Fast BackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\Fast BackJack.AssemblyInfoInputs.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\Fast BackJack.AssemblyInfo.cs
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\Fast BackJack.csproj.CoreCompileInputs.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\Fast BackJack.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\refint\Fast BackJack.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\Fast BackJack.pdb
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\Fast BackJack.genruntimeconfig.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\Fast blackjack\Fast BackJack\obj\Debug\net8.0\ref\Fast BackJack.dll
