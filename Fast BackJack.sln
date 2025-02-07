@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fast BackJack", "Fast BackJack.csproj", "{F810AD82-AB6A-F910-656D-D4B19FE6AB97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningApp", "RunningApp\RunningApp.csproj", "{927FDA29-725E-46C7-A90F-FA1E648C8EAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{F810AD82-AB6A-F910-656D-D4B19FE6AB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F810AD82-AB6A-F910-656D-D4B19FE6AB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F810AD82-AB6A-F910-656D-D4B19FE6AB97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927FDA29-725E-46C7-A90F-FA1E648C8EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927FDA29-725E-46C7-A90F-FA1E648C8EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927FDA29-725E-46C7-A90F-FA1E648C8EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927FDA29-725E-46C7-A90F-FA1E648C8EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
